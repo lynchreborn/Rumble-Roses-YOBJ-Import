@@ -1,3 +1,4 @@
+
 # Rumble Roses PS2 YOBJ - Blender Import Plugin
 
 A Blender add-on that imports **Rumble Roses (PS2)** `.yobj` models: fighters, hair, clothing, accessories and whole arenas, with skeletons, skin weights, UVs, normals and materials.
@@ -7,6 +8,9 @@ The goal is simple: get the game's models into Blender for visual art, renders a
 **Requires:** Blender 5.2 or newer  |  **Version:** 1.0.0
 
 > This project contains no game assets. You need your own files extracted from your own copy of the game.
+<img width="1918" height="1038" alt="Medal_2026-10-14_12-44-09" src="https://github.com/user-attachments/assets/7068d958-0eda-4056-84cc-cda19209f9f1" />
+<img width="1918" height="1038" alt="Medal_2026-10-14_12-32-24" src="https://github.com/user-attachments/assets/b57aca8b-4b2e-4e04-b675-58abbe9dd591" />
+<img width="1918" height="1038" alt="Medal_2026-10-14_12-40-48" src="https://github.com/user-attachments/assets/ffe45b1f-ee4a-4351-a3ab-b52133df592e" />
 
 ---
 
@@ -40,6 +44,7 @@ The goal is simple: get the game's models into Blender for visual art, renders a
 
 Prefer not to install? Open `__init__.py` in Blender's Text Editor and press **Run Script**.
 
+<img width="598" height="535" alt="Medal_2026-10-14_13-17-44" src="https://github.com/user-attachments/assets/204947ab-16fa-421e-b27a-df2821bd64f6" />
 ---
 
 ## Use
