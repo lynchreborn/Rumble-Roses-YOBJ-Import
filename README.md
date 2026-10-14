@@ -105,4 +105,6 @@ Reverse-engineered from research on the PS2 file formats. "RROExporter" by Mike 
 
 Rumble Roses is a trademark of Konami. This is an unofficial fan project, not affiliated with or endorsed by Konami, and it includes no game data.
 
+Co-authored-by: Claude 
+
 **License:** GPL-3.0-or-later 
