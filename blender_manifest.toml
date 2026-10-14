@@ -1,0 +1,20 @@
+schema_version = "1.0.0"
+
+id = "rumble_roses_yobj_importer"
+version = "1.0.0"
+name = "Rumble Roses YOBJ Importer"
+tagline = "Import Rumble Roses (PS2) .yobj fighters and arenas"
+maintainer = "LyonessDen/Claude"
+type = "add-on"
+
+# the earliest Blender this was written and tested for
+blender_version_min = "5.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["Import-Export"]
+
+[permissions]
+files = "Read .yobj, .tga and .dat files from disk, and write an optional import log"
