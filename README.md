@@ -8,6 +8,9 @@ The goal is simple: get the game's models into Blender for visual art, renders a
 **Requires:** Blender 5.2 or newer  |  **Version:** 1.0.0
 
 > This project contains no game assets. You need your own files extracted from your own copy of the game.
+
+> This plugin may work with Just Bring It, Shut Your Mouth, Here Comes The Pain and others but does not have code written to fully support their technical aspects, shaders and anything else. Experiment with caution.
+
 <img width="1918" height="1038" alt="Medal_2026-10-14_12-44-09" src="https://github.com/user-attachments/assets/7068d958-0eda-4056-84cc-cda19209f9f1" />
 <img width="1918" height="1038" alt="Medal_2026-10-14_12-32-24" src="https://github.com/user-attachments/assets/b57aca8b-4b2e-4e04-b675-58abbe9dd591" />
 <img width="1918" height="1038" alt="Medal_2026-10-14_12-40-48" src="https://github.com/user-attachments/assets/ffe45b1f-ee4a-4351-a3ab-b52133df592e" />
